@@ -62,7 +62,7 @@ i fixed the problem by using long long ints which had 8 bytes of memory (64 bits
 ## Fetching Cycle
 for the fetching cycle i followed as closely possible this flowchart 
 
-![](screenshots/flowchart.png)
+![](screenshots/flowchart.jpg)
 
 i specified more in the comments of the source code 
 
