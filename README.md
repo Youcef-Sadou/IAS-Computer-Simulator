@@ -1,7 +1,7 @@
 # IAS-Computer-Simulator
 A program that is a simulator of the IAS architecture written in c (seen below) 
 
-![](screenshots/structure.png)
+![](screenshots/Structure.png)
 
 ### Introduction
 this project is a 20 bit CPU made with C, the IAS2 folder contains the project and unit_tests folder contains the unit tests for the functions
