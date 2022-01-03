@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/youcef/Desktop/Youcef_SADOU/unit_tests/unit_tests.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+

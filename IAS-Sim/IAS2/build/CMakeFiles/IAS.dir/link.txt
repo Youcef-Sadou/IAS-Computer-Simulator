@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/IAS.dir/main.c.o -o IAS 
